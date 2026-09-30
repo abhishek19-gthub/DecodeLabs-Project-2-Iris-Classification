@@ -47,6 +47,13 @@ python project2_iris_knn.py
 - Why the scaler should be fitted only on training data (to avoid data leakage)
 - How to read a confusion matrix and F1 score instead of relying only on accuracy
 
+-----------------------OUTPUT------------------------
+- ### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Choosing K (Elbow Graph)
+![K Tuning](k_tuning_elbow.png)
+
 ## Author
 Abhishek
 Built as part of the DecodeLabs AI Industrial Training, Batch 2026
